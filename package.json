@@ -1,0 +1,16 @@
+{
+  "name": "Nus-Weerachat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nus2804/Nus-Weerachat.git",
+  "author": "nus2804 <76470896+nus2804@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
